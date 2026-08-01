@@ -22,7 +22,7 @@ The vision is simple:
 * **Compete** in **Code Lab Cinema** events and **Twitch TV tournaments**.   
 
 A standalone **Code Editor** lets you write, test, and load your code without opening the Godot Editor.   
-Repository: https://github.com/EloiStree/APInt128x64   
+Repository: https://github.com/EloiStree/GOMI   
 
 
 
