@@ -3,6 +3,9 @@
 **Developer Note:** CodeLabTV is designed to run on Raspberry Pi 5 and Android TV devices—basically, it can run on a potato.
 CodeLabCinema keeps the same ugliness since it uses the same codebase and assets, but it's designed with GPU acceleration and CPUs capable of rendering at **1080×1920** resolution in mind. I'm currently testing it on a Steam Machine, although some mini-games may require more powerful hardware.
 
+```
+git clone --recursive https://github.com/EloiStree/CodeLabCinema.git
+```
 
 ----------
 
