@@ -5,6 +5,8 @@ CodeLabCinema keeps the same ugliness since it uses the same codebase and assets
 
 ```
 git clone --recursive https://github.com/EloiStree/CodeLabCinema.git
+cd CodeLabCinema
+git submodule foreach 'git switch main'
 ```
 
 ----------
